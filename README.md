@@ -1,4 +1,4 @@
-### Hello there
+### Hey there
 
 I'm currently working on my internship, learning new things, and trying out new hobbies! I don't code much but check out my LinkedIn down below.
 
