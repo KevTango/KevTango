@@ -4,7 +4,7 @@ I'm currently working on my internship, learning new things, and trying out new 
 
 <p align='center'>
  <a href="https://www.linkedin.com/in/kevintangnzl">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 </p>
 
