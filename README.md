@@ -1,6 +1,6 @@
 ### Hey there! :wave:
 
-I'm currently learning new things, and trying out new hobbies! I don't code much but check out my LinkedIn down below.
+I'm currently learning new things, and trying out new hobbies! I don't code much but check out my personal website or LinkedIn down below.
 
 <p align='center'>
  <a href="https://www.linkedin.com/in/kevintangnzl">
