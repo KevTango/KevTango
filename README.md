@@ -15,5 +15,6 @@ I'm currently learning new things, and trying out new hobbies! I don't code much
 ## Now Playing
 
 <p align='center'>
- [![Spotify](https://kevtango.vercel.app/api/spotify)](https://open.spotify.com/user/1242974390)
+ <a href="https://open.spotify.com/user/1242974390">
+  <img src="https://kevtango.vercel.app/api/spotify">
 </p>
