@@ -18,7 +18,9 @@ I'm currently learning new things, and trying out new hobbies! I don't code much
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KevTango&count_private=true&show_icons=true&theme=tokyonight"> </a>
 </p>
 
-## Now Playing
+<h2 align='center'>
+ Now Playing
+</h2>
 
 <p align='center'>
  <a href="https://open.spotify.com/user/1242974390">
