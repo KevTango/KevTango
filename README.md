@@ -11,3 +11,5 @@ I'm currently learning new things, and trying out new hobbies! I don't code much
 <p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KevTango&count_private=true&show_icons=true&theme=tokyonight"> </a>
 </p>
+
+[![Spotify](https://kevtango.vercel.app/api/spotify)](https://open.spotify.com/user/1242974390)
