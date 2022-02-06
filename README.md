@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
- A passionate Electrical and Electronic Engineer from New Zealand
+ A passionate Electrical and Electronic Engineer from :new_zealand:
 </h3>
 
 I'm currently learning new things, and trying out new hobbies! I don't code much but check out my personal website or LinkedIn down below.
