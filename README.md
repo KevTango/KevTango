@@ -1,10 +1,9 @@
-<h1 align='center'>
- Hi 👋, I'm Kevin
-</h1>
 
-<h3 align='center'>
- A passionate Electrical and Electronic Engineer from :new_zealand:
-</h3>
+# Hiya, I'm Kevin
+
+A passionate Electrical and Electronic Engineer from :new_zealand:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comforter&color=%232F8E8F&lines=Welcome+to+my+profile!;Current+Position%3A+Junior+Development+Engineer)](https://git.io/typing-svg)
 
 I'm currently learning new things, and trying out new hobbies! I don't code much but check out my personal website or LinkedIn down below.
 
@@ -18,9 +17,7 @@ I'm currently learning new things, and trying out new hobbies! I don't code much
  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KevTango&count_private=true&show_icons=true&theme=tokyonight"> </a>
 </p>
 
-<h2 align='center'>
- Now Playing
-</h2>
+## Now Playing
 
 <p align='center'>
  <a href="https://open.spotify.com/user/1242974390">
