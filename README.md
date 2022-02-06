@@ -1,25 +1,20 @@
 
 # Hiya, I'm Kevin
 
-A passionate Electrical and Electronic Engineer from :new_zealand:
+A passionate Electrical and Electronic Engineer from New Zealand :new_zealand:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comforter&color=%232F8E8F&lines=Welcome+to+my+profile!;Current+Position%3A+Junior+Development+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comforter&color=%232F8E8F&lines=Welcome+to+my+profile!;Junior+Development+Engineer)](https://git.io/typing-svg)
 
-I'm currently learning new things, and trying out new hobbies! I don't code much but check out my personal website or LinkedIn down below.
+I'm currently learning new things, and trying out new hobbies! I don't code much but check out my [personal website](https://kevtang.me) or LinkedIn down below.
 
-<p align='center'>
- <a href="https://www.linkedin.com/in/kevintangnzl">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevintangnzl)
 
-<p align='center'>
- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KevTango&count_private=true&show_icons=true&theme=tokyonight"> </a>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KevTango&count_private=true&show_icons=true&theme=tokyonight" align="center">
 </p>
 
 ## Now Playing
 
-<p align='center'>
- <a href="https://open.spotify.com/user/1242974390">
-  <img src="https://kevtango.vercel.app/api/spotify">
-</p>
+[![Math Rock Playlist](https://img.shields.io/badge/Math%20Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4X4y5Q9jwTAHqrLqCFxQke)
+
+[![Spotify](https://kevtango.vercel.app/api/spotify)](https://open.spotify.com/user/1242974390)
