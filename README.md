@@ -17,7 +17,7 @@ A passionate Electrical and Electronic Engineer from New Zealand :new_zealand:
 - :chess_pawn: Frequent visitor at the local chess club. FIDE Profile: Coming Soon
 - :guitar: Hobby Guitarist.
 - :racing_car: Formula 1 enthusiast.
-- :basketball: Fan of Philadelphia 76ers. Trust the Process.
+- :basketball: Fan of the Philadelphia 76ers. Trust the Process.
 - :trophy: 2022 Goals:
     - Reach an OTB rating of 1500 and an online rating of 2000 in Lichess.
     - Join a field hockey club.
