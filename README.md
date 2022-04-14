@@ -42,6 +42,7 @@ IDEs:
 
 Framework:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Foundation](https://img.shields.io/badge/foundation-1583CC.svg?style=for-the-badge)
 
 ## :musical_note: Now Playing
 
