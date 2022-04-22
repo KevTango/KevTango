@@ -46,6 +46,7 @@ Framework:
 
 ## :musical_note: Now Playing
 
+[![Indie Playlist](https://img.shields.io/badge/Indie-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3laYaqr145YdILBqvYFIUu)
 [![Math Rock Playlist](https://img.shields.io/badge/Math%20Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4X4y5Q9jwTAHqrLqCFxQke)
 [![Rock Playlist](https://img.shields.io/badge/Rock-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0Y0NwMy3wD0Bxm6wzf1wAK)
 
