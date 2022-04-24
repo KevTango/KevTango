@@ -3,14 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comforter&color=%232F8E8F&lines=Welcome+to+my+profile!;Junior+Development+Engineer)](https://git.io/typing-svg)
 
-I'm currently learning new things, and trying out new hobbies! I don't code much but check out my personal website or LinkedIn down below.
+I'm currently learning new things, and trying out new hobbies! Feel free to check out my personal website or LinkedIn down below.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevintangnzl)
 [![Website](https://img.shields.io/badge/website-%232F8E8F.svg?style=for-the-badge)](https://www.kevtang.me/)
 
 ## :technologist: About Me
 
-A passionate Electrical and Electronic Engineer from New Zealand :new_zealand:
+A passionate Electrical and Electronic Engineer from :new_zealand:
 
 - :man_technologist: Currently working as a Junior Development Engineer @ Wellington Drive Technologies.
 - :books: Interested in embedded systems and up-and-coming development in wireless power transfer.
