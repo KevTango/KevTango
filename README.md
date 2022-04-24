@@ -23,7 +23,7 @@ A passionate Electrical and Electronic Engineer from :new_zealand:
     - Join a field hockey club.
     - Expand my software skillset.
 
-## :screwdriver: Technologies Used
+## :toolbox: Technologies Used
 
 Languages: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
