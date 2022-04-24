@@ -52,6 +52,9 @@ Framework:
 
 [![Spotify](https://kevtango.vercel.app/api/spotify)](https://open.spotify.com/user/1242974390)
 
+## :chess_pawn: Follow My Chess Progression
+![Chess Graph](https://chess-rating-graph.herokuapp.com/static/chess_rating_graph.svg)
+
 ## Github Stats
 
 <p align="center">
