@@ -55,8 +55,9 @@ Framework:
 
 ## :chess_pawn: Follow My Chess Journey
 <p align="center">
-    <object type="image/svg+xml" data="https://chess-rating-graph.herokuapp.com/static/chess_rating_graph_tokyo.svg">
-    <img src="https://chess-rating-graph.herokuapp.com/static/chess_rating_graph_tokyo.svg" xlink:href="data:image/png;base64/>
+    <a href="https://github.com/KevTango/chess-rating-graph">
+        <img src="https://chess-rating-graph.herokuapp.com/static/chess_rating_graph_tokyo.svg"/>
+    </a>
 </object>
 
 </p>
