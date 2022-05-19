@@ -65,7 +65,9 @@ Framework:
 ## Github Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KevTango&count_private=true&show_icons=true&theme=tokyonight" align="center">
+    <a href="https://github-readme-stats.vercel.app">
+        <img src="https://github-readme-stats.vercel.app/api?username=KevTango&count_private=true&show_icons=true&theme=tokyonight" align="center">
+    </a>
 </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevtango/kevtango)](https://badges.pufler.dev)
