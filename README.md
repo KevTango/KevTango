@@ -14,7 +14,7 @@ A passionate Electrical and Electronic Engineer from :new_zealand:
 
 - :man_technologist: Currently working as a Junior Development Engineer @ Wellington Drive Technologies.
 - :books: Interested in embedded systems and up-and-coming development in wireless power transfer.
-- :chess_pawn: Frequent visitor at my local chess club. FIDE Profile: Coming Soon
+- :chess_pawn: Frequent visitor at my local chess club. FIDE Profile: [Link](https://ratings.fide.com/profile/4317793)
 - :guitar: Hobby guitarist.
 - :racing_car: Formula 1 enthusiast.
 - :basketball: Fan of the Philadelphia 76ers. Trust the Process.
