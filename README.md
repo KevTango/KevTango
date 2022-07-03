@@ -45,6 +45,9 @@ Framework:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Foundation](https://img.shields.io/badge/foundation-1583CC.svg?style=for-the-badge)
 
+OS:
+![Zephyr](https://img.shields.io/badge/zephyr-9B51E0.svg?style=for-the-badge)
+
 ## :musical_note: Now Playing
 
 [![Indie Playlist](https://img.shields.io/badge/Indie-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3laYaqr145YdILBqvYFIUu)
