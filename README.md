@@ -46,6 +46,7 @@ Framework:
 ![Foundation](https://img.shields.io/badge/foundation-1583CC.svg?style=for-the-badge)
 
 OS:
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/zephyr-9B51E0.svg?style=for-the-badge)
 
 ## :musical_note: Now Playing
