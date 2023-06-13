@@ -12,16 +12,11 @@ I'm currently learning new things, and trying out new hobbies! Feel free to chec
 
 A passionate Electrical and Electronic Engineer from :new_zealand:
 
-- :man_technologist: Currently working as a Junior Development Engineer @ Wellington Drive Technologies.
+- :man_technologist: Currently working as a Junior Development Engineer @ AoFrio.
 - :books: Interested in embedded systems and up-and-coming development in wireless power transfer.
 - :chess_pawn: Frequent visitor at my local chess club. FIDE Profile: [Link](https://ratings.fide.com/profile/4317793)
 - :guitar: Hobby guitarist.
 - :racing_car: Formula 1 enthusiast.
-- :basketball: Fan of the Philadelphia 76ers. Trust the Process.
-- :trophy: 2022 Goals:
-    - Reach an OTB rating of 1500 and an online rating of 2000 in Lichess.
-    - Join a field hockey club.
-    - Expand my software skillset.
 
 ## :toolbox: Technologies Used
 
