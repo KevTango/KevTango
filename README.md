@@ -56,7 +56,7 @@ OS:
 <p align="center">
     <a href="https://github.com/KevTango/chess-rating-graph">
         <object data="https://kevtango.pythonanywhere.com/static/chess_rating_graph_tokyo.svg" type="image/svg+xml">
-        <img src="https://chess-rating-graph.herokuapp.com/static/chess_rating_graph_tokyo.png" />
+        <img src="https://kevtango.pythonanywhere.com/static/chess_rating_graph_tokyo.png" />
         </object>
     </a>
 </p>
