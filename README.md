@@ -6,7 +6,7 @@
 I'm currently learning new things, and trying out new hobbies! Feel free to check out my personal website or LinkedIn down below.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevintangnzl)
-[![Website](https://img.shields.io/badge/website-%232F8E8F.svg?style=for-the-badge)](https://www.kevtang.me/)
+[![Website](https://img.shields.io/badge/website-%232F8E8F.svg?style=for-the-badge)](https://www.kevintang.co.nz/)
 
 ## :technologist: About Me
 
